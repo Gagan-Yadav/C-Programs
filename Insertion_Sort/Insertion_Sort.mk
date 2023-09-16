@@ -12,7 +12,7 @@ IntermediateDirectory  :=../build-$(ConfigurationName)/Insertion_Sort
 OutDir                 :=../build-$(ConfigurationName)/Insertion_Sort
 CurrentFileName        :=
 CurrentFilePath        :
-CurrentFileFullPath    :=
+CurrentFileFullPath  
 User                   :=ASUS
 Date                   :=16/01/2021
 CodeLitePath           :="C:/Program Files/CodeLite"
