@@ -11,7 +11,7 @@ ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Insertio
 IntermediateDirectory  :=../build-$(ConfigurationName)/Insertion_Sort
 OutDir                 :=../build-$(ConfigurationName)/Insertion_Sort
 CurrentFileName        :=
-CurrentFilePath        :=
+CurrentFilePath        :
 CurrentFileFullPath    :=
 User                   :=ASUS
 Date                   :=16/01/2021
