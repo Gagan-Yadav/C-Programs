@@ -5,7 +5,7 @@
 ## Debug
 ProjectName            :=Insertion_Sort
 ConfigurationName      :=Debug
-WorkspaceConfiguration := $(ConfigurationName)
+Wo:= $(ConfigurationName)
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Insertion_Sort
 IntermediateDirectory  :=../build-$(ConfigurationName)/Insertion_Sort
