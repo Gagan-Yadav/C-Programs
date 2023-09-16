@@ -10,7 +10,7 @@ WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Insertion_Sort
 y  :=../build-$(ConfigurationName)/Insertion_Sort
 OutDir                 :=../build-$(ConfigurationName)/Insertion_Sort
-CurrentFileName        :=
+CurrentFileNa
 CurrentFilePath        :
 CurrentFileFullPath  
 User                   :=ASUS
