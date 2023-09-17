@@ -8,17 +8,7 @@ ConfigurationName      :=Debug
 WorkspaceConfiguration := $(ConfigurationName)
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/
-IntermediateDirectory  :=../build-$(ConfigurationName)/Multiple_stack
-OutDir                 :=../build-$(ConfigurationName)/Multiple_stack
-CurrentFile-0k=47 bn*IP
-
-CurrentFilePath        :=
-CurrentFileFullPath    :=
-User                   :=ASUS
-Date                   :=03/01/2021
-CodeLitePath           :="C:/Program Files/CodeLite"
-LinkerName             :=C:/MinGW/bin/g++.exe
-SharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
+IntermediateDirectory  :=../build-$(ConfigurationName)/Multiple_stackSharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
 ObjectSuffix           :=.o
 DependSuffix           :=.o.d
 PreprocessSuffix       :=.i
