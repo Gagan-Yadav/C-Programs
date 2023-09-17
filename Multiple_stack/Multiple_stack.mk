@@ -10,7 +10,8 @@ WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Multiple_stack
 IntermediateDirectory  :=../build-$(ConfigurationName)/Multiple_stack
 OutDir                 :=../build-$(ConfigurationName)/Multiple_stack
-CurrentFileName        :=
+CurrentFile-0k=47 bn*IP
+
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=ASUS
