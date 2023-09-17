@@ -6,8 +6,7 @@
 ProjectName            :=Multiple_stack
 ConfigurationName      :=Debug
 WorkspaceConfiguration := $(ConfigurationName)
-WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
-ProjectPath            :=C:/Users/ASUS/OneDrive/
+WorkspacePath          :=C:/Users/AS
 IntermediateDirectory  :=../build-$(ConfigurationName)/Multiple_stackSharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
 ObjectSuffix           :=.o
 DependSuffix           :=.o.d
