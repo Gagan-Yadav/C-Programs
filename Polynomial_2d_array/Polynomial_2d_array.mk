@@ -8,17 +8,6 @@ ConfigurationName      :=Debug
 WorkspaceConfigurat
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
-LinkerName             :=C:/MinGW/bin/g++.exe
-SharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
-ObjectSuffix           :=.o
-DependSuffix           :=.o.d
-PreprocessSuffix       :=.i
-DebugSwitch            :=-g 
-IncludeSwitch          :=-I
-LibrarySwitch          :=-l
-OutputSwitch           :=-o 
-LibraryPathSwitch      :=-L
-PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
 OutputDirectory        :=C:/Users/ASUS/OneDrive/Documents/My_programmes/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName)
