@@ -6,17 +6,6 @@
 ProjectName            :=Polynomial_2d_array
 ConfigurationName      :=Debug
 WorkspaceConfigurat
-CodeLitePath           :="C:/Program Files/CodeLite"
-MakeDirCommand         :=mkdir
-SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/ASUS/OneDrive/Documents/My_programmes/build-$(WorkspaceConfiguration)/bin
-OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName)
-Preprocessors          :=
-ObjectSwitch           :=-o 
-ArchiveOutputSwitch    := 
-PreprocessOnlySwitch   :=-E
-ObjectsFileList        :=$(IntermediateDirectory)/ObjectsList.txt
-PCHCompileFlags        :=
 RcCmpOptions           := 
 RcCompilerName         :=C:/MinGW/bin/windres.exe
 LinkOptions            :=  
