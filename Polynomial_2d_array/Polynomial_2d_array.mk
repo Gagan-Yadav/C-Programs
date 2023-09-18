@@ -5,13 +5,7 @@
 ## Debug
 ProjectName            :=Polynomial_2d_array
 ConfigurationName      :=Debug
-WorkspaceConfiguration :=Debug
-WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
-ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/P
-CurrentFilePath        :=
-CurrentFileFullPath    :=
-User                   :=ASUS
-Date                   :=19/05/2023
+WorkspaceConfigurat
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/MinGW/bin/g++.exe
