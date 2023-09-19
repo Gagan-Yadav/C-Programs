@@ -10,7 +10,7 @@ ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Priority
 IntermediateDirectory  :=../build-$(ConfigurationName)/Priority_queue
 OutDir                 :=../build-$(ConfigurationName)/PriorityCurrentFileNam     :=ASUS
 Date                   :=04/01/2021
-CodeLitePath           :="C:/Program Files/CodeLite"
+Co Files/CodeLite"
 LinkerName             :=C:/MinGW/bin/g++.exe
 SharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
 ObjectSuffix           :=.o
