@@ -9,9 +9,7 @@ WorkspaceConfiguration := $(ConfigurationName)
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Priority_queue
 IntermediateDirectory  :=../build-$(ConfigurationName)/Priority_queue
-OutDir                 :=../build-$(ConfigurationName)/Priority_queue
-CurrentFileName        :=
-CurrentFilePath        :=
+OutDir                 :=../build-$(ConfigurationName)/PriorityCurrentFileNam       :=
 CurrentFileFullPath    :=
 User                   :=ASUS
 Date                   :=04/01/2021
