@@ -5,8 +5,7 @@
 ## Debug
 ProjectName            :=Priority_queue
 ConfigurationName      :=Debug
-WorkspaceConfiguration := $(ConfigurationName)
-WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
+WorkspaceConfiguration := $(C       :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Priority_queue
 IntermediateDirectory  :=../build-$(ConfigurationName)/Priority_queue
 OutDir                 :=../build-$(ConfigurationName)/PriorityCurrentFileNam       :=
