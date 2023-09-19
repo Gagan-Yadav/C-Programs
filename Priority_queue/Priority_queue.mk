@@ -7,8 +7,7 @@ ProjectName            :=Priority_queue
 ConfigurationName      :=Debug
 WorkspaceConfiguration := $(C       :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Priority_queue
-IntermediateDirectory  :=../build-$(ConfigurationName)/Priority_queue
-OutDir                 :=../build-$(ConfigurationName)/PriorityCurrentFileNam     :=ASUS
+IntermediateDirectory  :=../build-$(ConfigurationName)/Pri    :=../build-$(ConfigurationName)/PriorityCurrentFileNam     :=ASUS
 Date                   :=04/01/2021
 Co Files/CodeLite"
 LinkerName             :=C:/MinGW/bin/g++.exe
