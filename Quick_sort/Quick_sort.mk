@@ -6,7 +6,7 @@ ConfigurationName      :=Debug
 WorkspaceConfiguration := $(ConfigurationName)
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Quick_sort
-IntermediateDirectory  :=../build-$(ConfigurationName)/Quick_sort
+l  :=../build-$(ConfigurationName)/Quick_sort
 OutDir          me)/Quick_sort
         :=
 CurrentFilePath        :=
