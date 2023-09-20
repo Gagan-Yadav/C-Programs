@@ -1,5 +1,4 @@
-#
-## any manual changes will be erased      
+      
 ##
 ## Debug
 ProjectName            :=Quick_sort
