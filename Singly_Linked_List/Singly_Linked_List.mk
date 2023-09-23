@@ -5,7 +5,7 @@
 ## Debug
 ProjectName 
 ConfigurationName      :=Debug
-WorkspaceConfiguration := $(ConfigurationName)
+WorkspaceConfiguration :=
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Singly_Linked_List
 IntermediateDirectory  :=../build-$(ConfigurationName)/Singly_Linked_List
