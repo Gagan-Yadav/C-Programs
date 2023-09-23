@@ -5,7 +5,7 @@
 ## Debug
 ProjectName 
 ConfigurationName      :=Debug
-WorkspaceConfiguration :=
+ :=
 WorkspacePath          :
 ProjectPath            :
 IntermediateDirectory  :=../build-$(ConfigurationName)/Singly_Linked_List
