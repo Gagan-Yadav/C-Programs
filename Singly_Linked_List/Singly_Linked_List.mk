@@ -8,7 +8,7 @@ ConfigurationName      :=Debug
  :=
 WorkspacePath          :
 ProjectPath            :
-IntermediateDirectory  :=../build-$(ConfigurationName)/Singly_Linked_List
+IntermediateDirectory  :
 OutDir                 :=../build-$ame)/Singly_Linked_List
 CurrentFileName        :=
 CurrentFilePath        :=
