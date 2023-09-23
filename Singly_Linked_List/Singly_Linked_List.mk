@@ -16,7 +16,7 @@ CurrentFileFullPath    :=
 User                   :=ASUS
 Date                   :=11/03/2021
 CodeLitePath           :="C:/Program Files/CodeLite"
-LinkerName             :=C:/MinGW/bin/g++.exe
+LinkerName             :
 SharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
 ObjectSuffix           :=.o
 DependSuffix           :=.o.d
