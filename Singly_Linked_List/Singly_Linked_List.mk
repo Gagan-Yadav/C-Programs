@@ -6,7 +6,7 @@
 ProjectName 
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=
-WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
+WorkspacePath          :
 ProjectPath            :
 IntermediateDirectory  :=../build-$(ConfigurationName)/Singly_Linked_List
 OutDir                 :=../build-$ame)/Singly_Linked_List
