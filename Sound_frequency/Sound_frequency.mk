@@ -1,5 +1,5 @@
 ##
-## Auto Generated makefile by CodeLite IDE
+## Auto  makefile by CodeLite IDE
 ## any manual changes will be erased      
 ##
 ## Debug
