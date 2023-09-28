@@ -5,7 +5,7 @@
 ## Debug
 ProjectName            :
 ConfigurationName      :=Debug
-WorkspaceConfiguration := $(ConfigurationName)
+WorkspaceConfiguration := 
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Sound_frequency
 IntermediateDirectory  :=../build-$(ConfigurationName)/Sound_frequency
