@@ -9,7 +9,7 @@ WorkspaceConfiguration := $(ConfigurationName)
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Sound_frequency
 IntermediateDirectory  :=../build-$(ConfigurationName)/Sound_frequency
-O            :=../build-$(ConfigurationName)/Sound_frequency
+O            :
 CurrentFileName       
 CurrentFilePath        :=
 CurrentFileFullPath    :=
