@@ -6,7 +6,7 @@
 ProjectName            :=Sparse_Matrix
 ConfigurationName      :=Debug
 WorkspaceConfiguration := 
-WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
+WorkspacePath          :
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Sparse_Matrix
 IntermediateDirectory  :
 OutDir                 :
