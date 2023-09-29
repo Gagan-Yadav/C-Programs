@@ -3,7 +3,7 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Sparse_Matrix
+ProjectName            :
 ConfigurationName      :=Debug
 WorkspaceConfiguration := 
 WorkspacePath          :
