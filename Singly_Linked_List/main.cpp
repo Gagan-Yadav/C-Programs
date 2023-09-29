@@ -18,7 +18,7 @@ void insert(int new_data)
 }
 void display() 
 {
-gagan
+
     struct node*ptr;
     ptr =head;
     while(ptr!= NULL)
