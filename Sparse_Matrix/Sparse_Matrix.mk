@@ -8,7 +8,7 @@ ConfigurationName      :=Debug
 WorkspaceConfiguration := 
 WorkspacePath          :
 ProjectPath            :
-IntermediateDirectory  :
+  :
 OutDir                 :
 CurrentFileName        :=
 CurrentFilePath        :=
