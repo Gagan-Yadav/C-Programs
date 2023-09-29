@@ -12,7 +12,7 @@ ProjectPath            :
 OutDir                 :
 CurrentFileName        :=
 CurrentFilePath        :=
-CurrentFileFullPath    :=
+    :=
 User                   :=ASUS
 Date                   :=11/07/2021
 CodeLitePath           :="C:/Program Files/CodeLite"
