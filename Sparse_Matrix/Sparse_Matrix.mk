@@ -8,7 +8,7 @@ ConfigurationName      :=Debug
 WorkspaceConfiguration := 
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Sparse_Matrix
-IntermediateDirectory  :=../build-$(ConfigurationName)/Sparse_Matrix
+IntermediateDirectory  :
 OutDir                 :=../build-$(ConfigurationName)/Sparse_Matrix
 CurrentFileName        :=
 CurrentFilePath        :=
