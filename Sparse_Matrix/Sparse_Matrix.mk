@@ -6,7 +6,7 @@
 ProjectName            :
 ConfigurationName      :=Debug
 WorkspaceConfiguration := 
-WorkspacePath          :
+          :
 ProjectPath            :
   :
 OutDir                 :
