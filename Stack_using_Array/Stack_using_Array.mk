@@ -6,7 +6,8 @@
 ProjectName            :=Stack_using_Array
 ConfigurationName      :=Debug
 WorkspaceConfiguration := $(ConfigurationName)
-ProjectPath            :=C:/Users/ASUS/OneDrive///Sta
+ProjectPath            :=C:/Users/ASUS/OneDrive
+Sta
 ck_using_Array
 IntermediateDirectory  :=../build-$(ConfigurationName)/
 OutDi:=../build-$(ConfigurationName)/
