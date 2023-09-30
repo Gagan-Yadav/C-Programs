@@ -9,7 +9,7 @@ WorkspaceConfiguration := $(ConfigurationName)
 ProjectPath            :=C:/Users/ASUS/OneDrive///Sta
 ck_using_Array
 IntermediateDirectory  :=../build-$(ConfigurationName)/
-OutDir                 :=../build-$(ConfigurationName)/Stack_using_Array
+OutDi:=../build-$(ConfigurationName)/Stack_using_Array
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
