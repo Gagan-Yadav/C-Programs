@@ -7,7 +7,8 @@ ProjectName            :=Stack_using_LinkList
 ConfigurationName      :=Release
 WorkspaceConfiguration := $(ConfigurationName)
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
-ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Stack_using_LinkList
+ProjectPath            :=C:/Users/ASUS/OneDrive/Documents
+My_programmes/Stack_using_LinkList
 IntermediateDirectory  :=../build-$(ConfigurationName)/Stack_using_LinkList
 OutDir                 :=../build-$(ConfigurationName)/Stack_using_LinkList
 CurrentFileName        :=
