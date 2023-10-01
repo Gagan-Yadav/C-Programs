@@ -9,7 +9,7 @@ WorkspaceConfiguration := $(ConfigurationName)
 WorkspacePath          :=C:/Users/ASUS/OneDrive/Documents/My_programmes
 ProjectPath            :=C:/Users/ASUS/OneDrive/Documents
 My_programmes/Stack_using_LinkList
-IntermediateDirectory  :=../build-$(ConfigurationName)/Stack_using_LinkList
+IntermediateDirectory  :=../build-$(ConfigurationName)/
 OutDir                 :=../build-$(ConfigurationName)/Stack_using_LinkList
 CurrentFileName        :=
 CurrentFilePath        :=
