@@ -8,7 +8,7 @@ ConfigurationName      :=Debug
  := $(ConfigurationName)
 WorkspacePath          :
 ProjectPath            :
-IntermediateDirectory  :=../build-$(ConfigurationName)/Selection_sort
+IntermediateDirectory  :
 OutDir                 :=../build-$(ConfigurationName)/Selection_sort
 CurrentFileName        :=
 CurrentFilePath        :=
