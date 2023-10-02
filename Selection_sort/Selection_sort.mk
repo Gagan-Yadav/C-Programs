@@ -6,7 +6,7 @@
 ProjectName            :=Selection_sort
 ConfigurationName      :=Debug
  := 
-WorkspacePath          :
+WorkspePath          :
 ProjectPath            :
 IntermediateDirectory  :
 OutDir                 :
