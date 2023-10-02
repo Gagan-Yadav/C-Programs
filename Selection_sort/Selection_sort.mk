@@ -5,7 +5,7 @@
 ## Debug
 ProjectName            :=Selection_sort
 ConfigurationName      :=Debug
-WorkspaceConfiguration := $(ConfigurationName)
+ := $(ConfigurationName)
 WorkspacePath          :
 ProjectPath            :
 IntermediateDirectory  :=../build-$(ConfigurationName)/Selection_sort
