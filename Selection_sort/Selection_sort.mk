@@ -5,7 +5,7 @@
 ## Debug
 ProjectName            :=Selection_sort
 ConfigurationName      :=Debug
- := $(ConfigurationName)
+ := 
 WorkspacePath          :
 ProjectPath            :
 IntermediateDirectory  :
