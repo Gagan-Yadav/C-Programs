@@ -9,7 +9,7 @@ ConfigurationName      :=Debug
 WorkspacePath          :
 ProjectPath            :
 IntermediateDirectory  :
-OutDir                 :=../build-$(ConfigurationName)/Selection_sort
+OutDir                 :
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
