@@ -7,7 +7,7 @@ ProjectName            :=Selection_sort
 ConfigurationName      :=Debug
 WorkspaceConfiguration := $(ConfigurationName)
 WorkspacePath          :
-ProjectPath            :=C:/Users/ASUS/OneDrive/Documents/My_programmes/Selection_sort
+ProjectPath            :
 IntermediateDirectory  :=../build-$(ConfigurationName)/Selection_sort
 OutDir                 :=../build-$(ConfigurationName)/Selection_sort
 CurrentFileName        :=
