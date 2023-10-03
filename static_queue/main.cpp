@@ -2,7 +2,7 @@
 //Gagan Yadav
 
 1234567890
-
+    
 #include <stdio.h>
 #include<iostream>
 using namespace std;
