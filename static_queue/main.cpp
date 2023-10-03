@@ -1,7 +1,6 @@
 //01 FEB 2021
 //Gagan Yadav
 
-
 #include <stdio.h>
 #include<iostream>
 using namespace std;
