@@ -2,7 +2,7 @@
 #include"Array.hpp"
 int main()
 {
-    std::cout<<"hello beti!"<<std::endl;
+    std::cout<<"hello !"<<std::endl;
     Array arr(5);
     std::cout<<arr<<std::endl;
     int val{};
