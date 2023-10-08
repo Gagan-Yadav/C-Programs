@@ -1,3 +1,4 @@
+
 //Gagan yadav
 //11 jan 2021
 #include <iostream>
@@ -16,7 +17,7 @@ public:
 };
 int menu::binary_search(int arr[],int l,int r,int x)
 {
-    if (r >= 1)
+    if (r >= 1) Dr
    {
       int mid = l + (r - 1) / 2;
       if (arr[mid] == x)
